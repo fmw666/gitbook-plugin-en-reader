@@ -1,0 +1,33 @@
+{
+    "name": "gitbook-plugin-en-reader",
+    "description": "Add reader to GitBook",
+    "author": "fmw666 <fmw19990718@gmail.com>",
+    "version": "1.0.0",
+    "engines": {
+        "gitbook": "*"
+    },
+    "homepage": "https://github.com/fmw666/gitbook-plugin-en-reader",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fmw666/gitbook-plugin-en-reader.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fmw666/gitbook-plugin-en-reader/issues"
+    },
+    "gitbook": {
+        "properties": {
+            "placement": {
+                "type": "string",
+                "description": "",
+                "default": "top"
+            }
+        }
+    },
+    "keywords": [
+      "gitbook",
+      "plugin",
+      "english",
+      "reader"
+    ]
+}
